@@ -24,14 +24,15 @@
 
 }
 #about{
-    font-size: 36px;
-    color: darkred;
+    font-size: 38px;
+    color: blue;
     text-align: center;
     margin-bottom: 1rem;
 }
 #about-text{
     font-size: 18px;
-    color: darkred;
+    color: blue;
+    font-weight: 550;
 }
 .accordion-button{
     color: black;
